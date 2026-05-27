@@ -1,0 +1,38 @@
+==============================
+  CustomCarRadio - CCRAgent
+==============================
+
+--- INSTALL ---
+
+EN: Run install_CCRAgent.bat
+FR: Lancez install_CCRAgent.bat
+
+
+--- UNINSTALL ---
+
+EN: Run uninstall_CCRAgent.bat
+FR: Lancez uninstall_CCRAgent.bat
+
+
+--- GAME WON'T LAUNCH? / JEU NE SE LANCE PLUS? ---
+
+EN: If Steam flagged ProjectZomboid64.bat as corrupted,
+    verify integrity then run install_CCRAgent.bat again.
+    Go to Steam > right-click Project Zomboid > Properties
+    > Local Files > Verify integrity of game files
+
+FR: Si Steam a detecte ProjectZomboid64.bat comme corrompu,
+    verifiez l'integrite puis relancez install_CCRAgent.bat.
+    Steam > clic droit Project Zomboid > Proprietes
+    > Fichiers locaux > Verifier l'integrite des fichiers
+
+
+--- FILES MODIFIED BY THE INSTALLER / FICHIERS MODIFIES ---
+
+  ProjectZomboid64.bat
+
+EN: The installer saves a backup before touching this file.
+    Uninstall restores it exactly as it was.
+
+FR: L'installeur sauvegarde l'original avant de le modifier.
+    La desinstallation le remet exactement comme avant.
