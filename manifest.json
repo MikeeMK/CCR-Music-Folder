@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-24T12:00:00Z",
+  "base_url": "https://raw.githubusercontent.com/MikeeMK/CCR-Music-Folder/main/",
+  "tracks": [
+    {
+      "id": "2_phut_hon",
+      "title": "2 Phút Hơn",
+      "artist": "Pháo",
+      "duration_seconds": 0,
+      "file_path": "2-Phut-Hon-Phao_.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "dancin_krono",
+      "title": "Dancin (KRONO Remix)",
+      "artist": "Aaron Smith",
+      "duration_seconds": 0,
+      "file_path": "Aaron Smith - Dancin (KRONO Remix) - Lyrics.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "ai_dua_em_ve",
+      "title": "Ai Đưa Em Về (Cukak Remix)",
+      "artist": "Cukak",
+      "duration_seconds": 0,
+      "file_path": "Ai-đưa-em-về-_Cukak-Remix.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "assassins_des_templiers",
+      "title": "Assassins des Templiers",
+      "artist": "Unknown",
+      "duration_seconds": 0,
+      "file_path": "Assassins-des-templiers.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "bad_habits",
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "duration_seconds": 0,
+      "file_path": "Bad Habits_spotdown.org.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "bailar",
+      "title": "Bailar",
+      "artist": "Unknown",
+      "duration_seconds": 0,
+      "file_path": "Bailar.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "heat_waves",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "duration_seconds": 0,
+      "file_path": "Heat-Waves.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "moulaga",
+      "title": "Moulaga",
+      "artist": "Unknown",
+      "duration_seconds": 0,
+      "file_path": "Moulaga.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "right_round",
+      "title": "Right Round",
+      "artist": "Flo Rida",
+      "duration_seconds": 0,
+      "file_path": "Right-Round_spotdown.org.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "espresso",
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "duration_seconds": 0,
+      "file_path": "Sabrina Carpenter - Espresso (Official Video).ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "the_motto",
+      "title": "The Motto",
+      "artist": "Unknown",
+      "duration_seconds": 0,
+      "file_path": "The-Motto.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    },
+    {
+      "id": "time_time",
+      "title": "Time Time",
+      "artist": "Unknown",
+      "duration_seconds": 0,
+      "file_path": "Time-Time.ogg",
+      "hash_sha256": "",
+      "size_bytes": 0,
+      "tags": []
+    }
+  ]
+}
